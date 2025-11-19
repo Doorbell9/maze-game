@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(263,23): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(263,23): warning C4244:         with
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(263,23): warning C4244:         [
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(263,23): warning C4244:             _Rep=__int64
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(263,23): warning C4244:         ]
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(534,31): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(534,31): warning C4244:         with
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(534,31): warning C4244:         [
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(534,31): warning C4244:             _Rep=__int64
+C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\Maze Game\main.cpp(534,31): warning C4244:         ]
+  Generating code
+  447 of 457 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Maze Game.vcxproj -> C:\Users\Rdorb\OneDrive\Documents\Computer Science Uni Work\COMP1000\Maze Game\x64\Release\Maze Game.exe

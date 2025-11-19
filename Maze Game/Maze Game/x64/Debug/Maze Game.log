@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(265,23): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(265,23): warning C4244:         with
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(265,23): warning C4244:         [
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(265,23): warning C4244:             _Rep=__int64
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(265,23): warning C4244:         ]
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(542,31): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(542,31): warning C4244:         with
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(542,31): warning C4244:         [
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(542,31): warning C4244:             _Rep=__int64
+C:\Users\Rdorb\OneDrive\Desktop\Maze Game\Maze Game\main.cpp(542,31): warning C4244:         ]
+  Maze Game.vcxproj -> C:\Users\Rdorb\OneDrive\Desktop\Maze Game\x64\Debug\Maze Game.exe
